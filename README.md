@@ -1,1 +1,2 @@
-# mystruts1
+# mystruts2
+basic use of struts2
